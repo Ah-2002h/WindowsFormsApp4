@@ -8,5 +8,9 @@ namespace WindowsFormsApp4
 {
     class Class23
     {
+           /* Application.EnableVisualStyles();
+            Application.SetCompatibleTextRenderingDefault(false);
+            Application.Run(new Form());*/
+        
     }
 }
